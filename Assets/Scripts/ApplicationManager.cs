@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using UnityEngine.UI;
+using System;
 public class ApplicationManager : MonoBehaviour
 {
     static public float ending = 0;
@@ -14,16 +15,30 @@ public class ApplicationManager : MonoBehaviour
         int effectID = PlayerPrefs.GetInt("effectNumber", 0);
         if (effectID != 0)
         {
-            text[effectID - 1].SetActive(false);
-            effect[effectID - 1].SetActive(true);
+            try
+            {
+                text[effectID - 1].SetActive(false);
+                effect[effectID - 1].SetActive(true);
+            }
+            catch (Exception e)
+            {
+                print(e.Message);
+            }
         }
 
         int characterID = PlayerPrefs.GetInt("characterNumber", 80);
         if (characterID != 81)
         {
             print(characterID);
-            text[characterID - 1].SetActive(false);
-            effect[characterID - 1].SetActive(true);
+            try
+            {
+                text[characterID - 1].SetActive(false);
+                effect[characterID - 1].SetActive(true);
+            }
+            catch (Exception e)
+            {
+                print(e.Message);
+            }
         }
     }
 

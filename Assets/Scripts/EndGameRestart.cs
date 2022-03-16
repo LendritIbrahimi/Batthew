@@ -9,9 +9,6 @@ public class EndGameRestart : MonoBehaviour
     private GameObject mainObject;
 
     [SerializeField]
-    private AdInter AdInter;
-
-    [SerializeField]
     private GameObject score;
 
     private void Awake()
@@ -26,7 +23,6 @@ public class EndGameRestart : MonoBehaviour
     IEnumerator tem(float t)
     {
         mainObject.GetComponent<ChangeGravity>().isRunning = false;
-        AdInter.loadInter();
 
         yield return new WaitForSeconds(t);
 
