@@ -42,8 +42,6 @@ public class LeaderBoard : MonoBehaviour
         {
             containersMain[4].transform.GetChild(1).gameObject.GetComponent<Text>().text = "Loading";
         }
-        dl.AddScore("Bathew", 1);
-
     }
 
     void Update()
