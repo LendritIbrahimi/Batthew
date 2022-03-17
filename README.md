@@ -6,23 +6,6 @@ Batthew is an infinite side-scroller inspired by the famous FlappyBird.
 
 You can download Batthew from the [releases](https://github.com/LendritIbrahimi/Batthew/releases) page.
 
-## Contributing
-### Getting Started
-
-Follow the instructions below to start contributing:
-
-1. [Make sure you have meet all requirements](#requirements)
-2. Download the source code
-3. Open the project in Unity and enjoy!
-
-### Requirements
-
-Make sure you have the below requirements before starting:
-
-- [Unity Game Engine](https://unity3d.com)
-- Basic Knowledge about Unity and C#
-
-
 ## Screenshots
 ![Main Menu](https://drive.google.com/uc?export=view&id=1LzGgfDDK-e3RmkBZqSaP8nZ-MHt6GvG6)
 
@@ -37,6 +20,23 @@ Make sure you have the below requirements before starting:
 
 ### Leaderboard
 ![Leaderboard](https://drive.google.com/uc?export=view&id=1DYw0OX2tmr-iDUqzhcbOvFcfj_oIhNvC)
+
+
+## Contributing
+### Getting Started
+
+Follow the instructions below to start contributing:
+
+1. [Make sure you meet the requirements](#requirements)
+2. Download the source code
+3. Open the project in Unity and enjoy!
+
+### Requirements
+
+Nessesary requirements:
+
+- [Unity Game Engine](https://unity3d.com)
+- Basic Knowledge about Unity and C#
 
 
 ## License 
