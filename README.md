@@ -1,4 +1,4 @@
-# Batthew &middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/LendritIbrahimi/Batthew/blob/main/LICENSE) &middot; [![Download](https://img.shields.io/badge/DOWNLOAD-darkgreen)](https://github.com/LendritIbrahimi/Batthew/release)
+# Batthew &middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/LendritIbrahimi/Batthew/blob/main/LICENSE) &middot; [![Download](https://img.shields.io/badge/DOWNLOAD-darkgreen)](https://github.com/LendritIbrahimi/Batthew/releases)
 
 Batthew is an infinite side-scroller inspired by the famous FlappyBird.
 
@@ -39,6 +39,6 @@ Make sure you have the below requirements before starting:
 ![Leaderboard](https://drive.google.com/uc?export=view&id=1DYw0OX2tmr-iDUqzhcbOvFcfj_oIhNvC)
 
 
-### License 
+## License 
 
 Batthew is [MIT licensed](./LICENSE).
