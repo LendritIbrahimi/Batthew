@@ -10,7 +10,6 @@ public class pointsManager : MonoBehaviour
 
     void Start()
     {
-        PlayerPrefs.SetInt("points", 2000);
         if (gPoints)
         {
             sPoints = PlayerPrefs.GetInt("points", 0);
