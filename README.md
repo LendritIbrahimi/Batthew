@@ -4,7 +4,7 @@ Batthew is an infinite side-scroller inspired by the famous FlappyBird.
 
 ## Download
 
-You can download Batthew from the release section.
+You can download Batthew from the [releases](https://github.com/LendritIbrahimi/Batthew/releases) page.
 
 ## Contributing
 ### Getting Started
